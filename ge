@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Liebes Team von <strong>{{name}}</strong>,</p>
+
+<p>Erlauben Sie mir mich vorzustellen: Ich bin {{name3}}, Vertreter von <strong>{{name2}}</strong>. Nach unserem kürzlichen Gespräch möchte ich unser Interesse an einer Zusammenarbeit mit <strong>{{name}}</strong> zum gegenseitigen Nutzen bekräftigen.</p>
+
+<p>Bei <strong>{{name2}}</strong> spezialisieren wir uns darauf, Talente aus der gesamten Europäischen Union mit einzigartigen Arbeitsmöglichkeiten in der Schweiz im Bereich {{sector}} zu verbinden. Wir sind fest davon überzeugt, dass eine Zusammenarbeit zwischen unseren Organisationen sowohl für <strong>{{name}}</strong> als auch für unsere Initiative erhebliche Vorteile bringen kann.</p>
+
+<p>Um diese mögliche Zusammenarbeit zu vertiefen, möchte ich ein kurzes Treffen vorschlagen, um die Einzelheiten und spezifischen Vorteile für Ihre Institution zu besprechen. Im Anhang finden Sie eine Tagesordnung, in der Sie ein Treffen reservieren können, das über Google Meet stattfinden wird (<a href="{{link1}}">Klicken Sie hier</a>). Einige zu besprechende Themen sind:</p>
+
+<ul>
+<li>Vorteile für {{name}}.</li>
+<li>Möglichkeiten zur beruflichen Entwicklung für Ihre Studenten.</li>
+<li>Potentielle Bereiche der Zusammenarbeit zur Stärkung des Bildungsangebots.</li>
+</ul>
+
+<p>In diesen Zeiten des Wandels ist es entscheidend, dass Ihre Studenten die Möglichkeit haben, neue Möglichkeiten zu erkunden und ihren Horizont zu erweitern. Außerdem ist es wichtig zu beachten, dass der Schweizer Arbeitsmarkt derzeit signifikante Möglichkeiten bietet, was unsere Zusammenarbeit besonders relevant und zeitnah macht.</p>
+
+<p>Ich möchte die Bedeutung einer zeitnahen Antwort von Ihrem Team betonen. Wenn wir nicht innerhalb der nächsten 7 Werktage eine Antwort auf diese E-Mail erhalten, werden wir davon ausgehen, dass derzeit kein Interesse besteht, die vorgeschlagene Zusammenarbeit fortzusetzen.</p>
+
+<p>Bitte lassen Sie mich wissen, ob Sie für die Koordination dieses Treffens verfügbar sind. Ich stehe Ihnen für Fragen oder Klärungen gerne zur Verfügung.</p>
+
+<p>Ich freue mich auf Ihre baldige Antwort und wünsche Ihnen einen ausgezeichneten Tag.</p>
+
+<p>Mit freundlichen Grüßen,</p>
+
+<p><strong>Support Team</strong><br>
+<strong>{{name2}}</strong><br>
+<strong>{{correo}}</strong><br>
+<strong>{{telefono}}</strong></p>
+
+<p><img src="{{link2}}" alt="Imagen relevante" style="width:%50;"></p>
+
+<p><em><small style="color:grey;">This communication, inclusive of all attachments hereto, is strictly designated for the exclusive use of the intended recipient(s) and may contain information that is confidential, proprietary, or otherwise legally exempt from disclosure under applicable law, including but not limited to the General Data Protection Regulation (GDPR, Articles 15 and 32) and relevant data protection statutes. This transmission is subject to rigorous confidentiality and data security stipulations.
+
+The recipient of this information is hereby notified that any unauthorized disclosure, replication, dissemination, or action predicated upon the contents herein is strictly prohibited and may constitute a violation of enforceable legal statutes. Should you not be the designated recipient, you are requested to notify the sender immediately and proceed to expunge this message and any attachments from your system, refraining from any form of copy or distribution thereof.
+
+We acknowledge that electronic mail communication may be susceptible to security risks including, but not limited to, content alteration and interception by third parties. {{name2}} expressly disclaims all liability for any errors, omissions, alterations, or consequential damages arising from the employment of this communication, underscoring the importance of exercising due diligence and validating the integrity of the correspondence.
+
+We deeply value your cooperation and comprehension in fostering a secure and confidential digital interaction environment. It is our ongoing commitment to operate not only in strict compliance with legislative mandates but also with the utmost respect for the privacy and security of information entrusted to us by our esteemed collaborators and clients.</small></em></p>
+
+</body>
+</html>
