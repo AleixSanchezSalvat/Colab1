@@ -11,7 +11,7 @@
 <p>Para profundizar en esta posible colaboración, me gustaría proponer una breve reunión donde poder discutir los detalles y beneficios específicos para su institución. A continuación les adjunto una agenda donde podrán reservar una reunión, la cual será realizada vía Google Meet (<a href="{{link1}}">Pulse Aquí</a>). Algunos temas a tratar incluyen:</p>
 
 <ul>
-<li>Beneficios para <strong>{{name}}</strong>.</li>
+<li>Beneficios para {{name}}.</li>
 <li>Oportunidades de desarrollo profesional para sus estudiantes.</li>
 <li>Áreas potenciales de colaboración para fortalecer la oferta educativa.</li>
 </ul>
