@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Caro equipe de <strong>{{name}}</strong>,</p>
+
+<p>Permitam-me apresentar-me: Sou {{name3}}, representante de <strong>{{name2}}</strong>. Após nossa recente ligação, gostaria de reiterar nosso interesse em colaborar com <strong>{{name}}</strong> em benefício mútuo.</p>
+
+<p>Na <strong>{{name2}}</strong>, especializamo-nos em conectar talentos de toda a União Europeia com oportunidades de trabalho únicas na Suíça no setor {{sector}}. Acreditamos firmemente que uma colaboração entre nossas entidades pode trazer benefícios significativos tanto para <strong>{{name}}</strong> quanto para nossa iniciativa.</p>
+
+<p>Para aprofundar esta possível colaboração, gostaria de propor uma breve reunião para discutir os detalhes e benefícios específicos para sua instituição. Em anexo, envio uma agenda onde poderão reservar uma reunião, que será realizada via Google Meet (<a href="{{link1}}">Clique aqui</a>). Alguns tópicos a serem discutidos incluem:</p>
+
+<ul>
+<li>Benefícios para {{name}}.</li>
+<li>Oportunidades de desenvolvimento profissional para seus estudantes.</li>
+<li>Áreas potenciais de colaboração para fortalecer a oferta educacional.</li>
+</ul>
+
+<p>Nestes tempos de mudança, é fundamental que seus estudantes tenham a oportunidade de explorar novas possibilidades e expandir seus horizontes. Além disso, é crucial considerar que o mercado de trabalho suíço oferece oportunidades significativas atualmente, o que torna nossa colaboração especialmente relevante e oportuna.</p>
+
+<p>Gostaria de destacar a importância de uma resposta rápida por parte de sua equipe. Se não recebermos uma resposta a este e-mail nos próximos 7 dias úteis, entenderemos que não há interesse em prosseguir com a colaboração proposta no momento.</p>
+
+<p>Por favor, informem-me sobre sua disponibilidade para coordenar esta reunião. Estou à disposição para quaisquer perguntas ou esclarecimentos que possam precisar.</p>
+
+<p>Fico aguardando sua resposta rápida e desejo a todos um excelente dia.</p>
+
+<p>Atenciosamente,</p>
+
+<p><strong>Support Team</strong><br>
+<strong>{{name2}}</strong><br>
+<strong>{{correo}}</strong><br>
+<strong>{{telefono}}</strong></p>
+
+<p><img src="{{link2}}" alt="Imagen relevante" style="width:%50;"></p>
+
+<p><em><small style="color:grey;">This communication, inclusive of all attachments hereto, is strictly designated for the exclusive use of the intended recipient(s) and may contain information that is confidential, proprietary, or otherwise legally exempt from disclosure under applicable law, including but not limited to the General Data Protection Regulation (GDPR, Articles 15 and 32) and relevant data protection statutes. This transmission is subject to rigorous confidentiality and data security stipulations.
+
+The recipient of this information is hereby notified that any unauthorized disclosure, replication, dissemination, or action predicated upon the contents herein is strictly prohibited and may constitute a violation of enforceable legal statutes. Should you not be the designated recipient, you are requested to notify the sender immediately and proceed to expunge this message and any attachments from your system, refraining from any form of copy or distribution thereof.
+
+We acknowledge that electronic mail communication may be susceptible to security risks including, but not limited to, content alteration and interception by third parties. {{name2}} expressly disclaims all liability for any errors, omissions, alterations, or consequential damages arising from the employment of this communication, underscoring the importance of exercising due diligence and validating the integrity of the correspondence.
+
+We deeply value your cooperation and comprehension in fostering a secure and confidential digital interaction environment. It is our ongoing commitment to operate not only in strict compliance with legislative mandates but also with the utmost respect for the privacy and security of information entrusted to us by our esteemed collaborators and clients.</small></em></p>
+
+</body>
+</html>
