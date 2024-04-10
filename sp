@@ -6,7 +6,7 @@
 
 <p>Permítanme presentarme: Soy {{name3}}, representante de <strong>{{name2}}</strong> Tras nuestra reciente llamada, deseo reiterar nuestro interés en colaborar con <strong>{{name}}</strong> en beneficio mutuo.</p>
 
-<p>En <strong>{{name2}}</strong>, nos especializamos en conectar talentos de toda la Unión Europea con oportunidades laborales únicas en Suiza dentro del sector de {{sector}}. Creemos firmemente que una colaboración entre nuestras entidades puede brindar beneficios significativos tanto para <strong>{{name}}</strong> como para nuestra iniciativa.</p>
+<p>En <strong>{{name2}}</strong>, nos especializamos en conectar talentos de toda la Unión Europea con oportunidades laborales únicas en Suiza dentro del sector {{sector}}. Creemos firmemente que una colaboración entre nuestras entidades puede brindar beneficios significativos tanto para <strong>{{name}}</strong> como para nuestra iniciativa.</p>
 
 <p>Para profundizar en esta posible colaboración, me gustaría proponer una breve reunión donde poder discutir los detalles y beneficios específicos para su institución. A continuación les adjunto una agenda donde podrán reservar una reunión, la cual será realizada vía Google Meet (<a href="{{link1}}">Pulse Aquí</a>). Algunos temas a tratar incluyen:</p>
 
