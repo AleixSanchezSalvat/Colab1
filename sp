@@ -26,7 +26,7 @@
 
 <p>Atentamente,</p>
 
-<p><strong>Support Team</strong><br>
+<p><strong>Support Team - {{name3}}</strong><br>
 <strong>{{name2}}</strong><br>
 <strong>{{correo}}</strong><br>
 <strong>{{telefono}}</strong></p>
