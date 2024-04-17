@@ -1,30 +1,40 @@
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+    }
+    .bold {
+        font-weight: bold;
+    }
+</style>
+</head>
 <body>
+<p>Estimado equipo de <span class="bold">{{name}}</span>,</p>
 
-<p>Estimado equipo de <strong>{{name}}</strong>,</p>
+<p>Mi nombre es <span class="bold">{{name3}}</span> y represento a <span class="bold">{{name2}}</span>. Es un placer contactarles nuevamente para detallar cómo nuestra colaboración puede ofrecer oportunidades únicas a sus estudiantes en el sector <span class="bold">{{sector}}</span>.</p>
 
-<p>Permítanme presentarme: Soy {{name3}}, representante de <strong>{{name2}}</strong> Tras nuestra reciente llamada, deseo reiterar nuestro interés en colaborar con <strong>{{name}}</strong> en beneficio mutuo.</p>
+<p><span class="bold">¿Por qué este es el momento ideal para colaborar?</span></p>
 
-<p>En <strong>{{name2}}</strong>, nos especializamos en conectar talentos de toda la Unión Europea con oportunidades laborales únicas en Suiza dentro del sector {{sector}}. Creemos firmemente que una colaboración entre nuestras entidades puede brindar beneficios significativos tanto para <strong>{{name}}</strong> como para nuestra iniciativa.</p>
+<p><span class="bold">Alta Demanda en el Mercado Suizo:</span> El sector <span class="bold">{{sector}}</span> está actualmente en busca de talento capaz y motivado, lo que hace este momento particularmente propicio para que sus estudiantes den inicio a sus carreras profesionales en un contexto internacional.</p>
 
-<p>Para profundizar en esta posible colaboración, me gustaría proponer una breve reunión donde poder discutir los detalles y beneficios específicos para su institución. A continuación les adjunto una agenda donde podrán reservar una reunión, la cual será realizada vía Google Meet (<a href="{{link1}}">Pulse Aquí</a>). Algunos temas a tratar incluyen:</p>
+<p><span class="bold">Visibilidad y Reconocimiento para {{name}}:</span> Al colgar el cartel que les adjuntamos en áreas visibles, {{name}} demostrará su compromiso con el desarrollo profesional de sus estudiantes, posicionándose como una institución que activamente facilita caminos hacia oportunidades laborales de primer nivel.</p>
+
+<p><span class="bold">Pasos a seguir:</span></p>
 
 <ul>
-<li>Beneficios para {{name}}.</li>
-<li>Oportunidades de desarrollo profesional para sus estudiantes.</li>
-<li>Áreas potenciales de colaboración para fortalecer la oferta educativa.</li>
+    <li><span class="bold">Confirmación del Cartel:</span> Por favor, confirmen si podrán colocar el cartel informativo en un lugar destacado dentro de sus instalaciones. Este simple acto puede significar un cambio sustancial en la vida profesional de sus estudiantes.</li>
+    <li><span class="bold">Resolución de Dudas y Preguntas:</span> Entendemos que pueden surgir preguntas o dudas. Por ello, hemos habilitado una opción para programar una reunión via Google Meet donde podremos discutir todo en detalle. <a href="{{link1}}">Enlace para agendar reunión</a></li>
+    <li><span class="bold">Respuesta a Este Correo:</span> Además de la reunión, pueden responder directamente a este correo para cualquier consulta inicial o para confirmar la colocación del cartel.</li>
 </ul>
 
-<p>En estos momentos de cambio, es fundamental que sus estudiantes tengan la oportunidad de explorar nuevas posibilidades y expandir sus horizontes. Además, es crucial tener en cuenta que el mercado laboral suizo presenta oportunidades significativas en la actualidad, lo que hace que nuestra colaboración sea especialmente relevante y oportuna.</p>
+<p>Esperamos su pronta confirmación y estamos a la espera de su respuesta para coordinar los próximos pasos. Este es un momento óptimo para fortalecer la oferta educativa de <span class="bold">{{name}}</span> y mejorar el futuro profesional de sus estudiantes.</p>
 
-<p>Quiero destacar la importancia de una pronta respuesta por parte de su equipo. Si no recibimos una respuesta a este correo electrónico en los próximos 7 días laborables, entenderemos que en este momento no hay interés en seguir adelante con la colaboración propuesta.</p>
+<p>Agradezco de antemano su tiempo y colaboración.</p>
 
-<p>Por favor, háganme saber su disponibilidad para coordinar esta reunión. Estoy a su disposición para cualquier pregunta o aclaración que puedan necesitar.</p>
-
-<p>Quedo a la espera de su pronta respuesta y les deseo un excelente día.</p>
-
-<p>Atentamente,</p>
+<p>Cordiales saludos,</p>
 
 <p><strong>Support Team - {{name3}}</strong><br>
 <strong>{{name2}}</strong><br>
