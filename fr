@@ -2,28 +2,19 @@
 <html>
 <body>
 
-<p>Cher équipe de <strong>{{name}}</strong>,</p>
-
-<p>Permettez-moi de me présenter : Je suis {{name3}}, représentant de <strong>{{name2}}</strong>. Suite à notre récente conversation téléphonique, je tiens à réitérer notre intérêt à collaborer avec <strong>{{name}}</strong> dans un intérêt mutuel.</p>
-
-<p>Chez <strong>{{name2}}</strong>, nous nous spécialisons dans la mise en relation de talents de toute l'Union européenne avec des opportunités professionnelles uniques en Suisse, dans le secteur {{sector}}. Nous croyons fermement qu'une collaboration entre nos entités peut apporter des avantages significatifs tant pour <strong>{{name}}</strong> que pour notre initiative.</p>
-
-<p>Pour approfondir cette collaboration potentielle, je propose de tenir une courte réunion où nous pourrons discuter des détails et des avantages spécifiques pour votre institution. Ci-joint, vous trouverez un ordre du jour où vous pourrez réserver une réunion, qui se tiendra via Google Meet (<a href="{{link1}}">Cliquez ici</a>). Certains sujets à aborder incluent :</p>
-
+<p>Cher équipe de <span class="bold">{{name}}</span>,</p>
+<p>Je m'appelle <span class="bold">{{name3}}</span> et je représente <span class="bold">{{name2}}</span>. C'est un plaisir de vous contacter à nouveau pour détailler comment notre collaboration peut offrir des opportunités uniques à vos étudiants dans le secteur <span class="bold">{{sector}}</span>.</p>
+<p><span class="bold">Pourquoi est-ce le moment idéal pour collaborer ?</span></p>
+<p><span class="bold">Demande élevée sur le marché suisse :</span> Le secteur <span class="bold">{{sector}}</span> est actuellement à la recherche de talents capables et motivés, ce qui rend ce moment particulièrement propice pour que vos étudiants commencent leur carrière professionnelle dans un contexte international.</p>
+<p><span class="bold">Visibilité et Reconnaissance pour {{name}} :</span> En affichant la pancarte que nous vous envoyons dans des endroits visibles, {{name}} démontrera son engagement envers le développement professionnel de ses étudiants, se positionnant comme une institution qui facilite activement les chemins vers des opportunités professionnelles de premier plan.</p>
+<p><span class="bold">Étapes à suivre :</span></p>
 <ul>
-<li>Avantages pour {{name}}.</li>
-<li>Opportunités de développement professionnel pour vos étudiants.</li>
-<li>Domaines potentiels de collaboration pour renforcer l'offre éducative.</li>
+    <li><span class="bold">Confirmation de la pancarte :</span> Veuillez confirmer si vous pouvez placer la pancarte informative dans un endroit en vue à l'intérieur de vos installations. Ce simple acte peut signifier un changement substantiel dans la vie professionnelle de vos étudiants.</li>
+    <li><span class="bold">Réponse aux Questions et Doutes :</span> Nous comprenons que des questions ou des doutes peuvent survenir. C'est pourquoi nous avons mis en place une option pour planifier une réunion via Google Meet où nous pourrons discuter de tout en détail. <a href="{{link1}}">Lien pour planifier la réunion</a></li>
+    <li><span class="bold">Réponse à ce Courriel :</span> En plus de la réunion, vous pouvez répondre directement à ce courriel pour toute question initiale ou pour confirmer la mise en place de la pancarte.</li>
 </ul>
-
-<p>En ces temps de changement, il est essentiel que vos étudiants aient la possibilité d'explorer de nouvelles possibilités et d'élargir leurs horizons. De plus, il est crucial de prendre en compte que le marché du travail suisse offre actuellement des opportunités significatives, ce qui rend notre collaboration particulièrement pertinente et opportune.</p>
-
-<p>Je tiens à souligner l'importance d'une réponse rapide de la part de votre équipe. Si nous ne recevons pas de réponse à cet e-mail dans les 7 jours ouvrables, nous comprendrons qu'il n'y a pas d'intérêt à poursuivre la collaboration proposée pour le moment.</p>
-
-<p>Veuillez me faire savoir votre disponibilité pour coordonner cette réunion. Je reste à votre disposition pour toute question ou clarification dont vous pourriez avoir besoin.</p>
-
-<p>Je suis dans l'attente de votre réponse rapide et je vous souhaite une excellente journée.</p>
-
+<p>Nous attendons votre confirmation rapide et sommes impatients de recevoir votre réponse pour coordonner les prochaines étapes. C'est un moment optimal pour renforcer l'offre éducative de <span class="bold">{{name}}</span> et améliorer l'avenir professionnel de ses étudiants.</p>
+<p>Je vous remercie par avance de votre temps et de votre collaboration.</p>
 <p>Cordialement,</p>
 
 <p><strong>Support Team - {{name3}}</strong><br>
