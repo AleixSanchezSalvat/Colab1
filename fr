@@ -1,5 +1,16 @@
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+    }
+    .bold {
+        font-weight: bold;
+    }
+</style>
+</head>
 <body>
 
 <p>Cher équipe de <span class="bold">{{name}}</span>,</p>
