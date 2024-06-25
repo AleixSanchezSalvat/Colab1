@@ -20,7 +20,7 @@
 
 <p><span class="bold">Alta Demanda en el Mercado Suizo:</span> El sector <span class="bold">{{sector}}</span> está actualmente en busca de talento capaz y motivado, lo que hace este momento particularmente propicio para que sus estudiantes den inicio a sus carreras profesionales en un contexto internacional.</p>
 
-<p><span class="bold">Visibilidad y Reconocimiento para {{name}}:</span> Al colgar el cartel que les adjuntamos en áreas visibles, {{name}} demostrará su compromiso con el desarrollo profesional de sus estudiantes, posicionándose como una institución que activamente facilita caminos hacia oportunidades laborales de primer nivel.</p>
+<p><span class="bold">Visibilidad y Reconocimiento para {{name}}:</span>  Al enviar el cartel QR al correo de los alumnos o colgar el cartel que les adjuntamos en áreas visibles, {{name}} demostrará su compromiso con el desarrollo profesional de sus estudiantes, posicionándose como una institución que activamente facilita caminos hacia oportunidades laborales de primer nivel.</p>
 
 <p><span class="bold">Pasos a seguir:</span></p>
 
